@@ -3,7 +3,7 @@
 </p>
 
 <h1>Powershell fundemantals for beginners</h1>
-This project explains some of the powershell commnads you can use to do daily life..<br />
+This project explains some of the powershell commands you can use and learn to use on your computer as a beginner.<br />
 
 <h2>Environments and Technologies Used</h2>
 
